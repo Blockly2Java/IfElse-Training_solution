@@ -43,15 +43,6 @@ public class Main {
         }
     }
 
-    /**
-     * Das Hauptprogramm (main-Methode):
-     * Alles, was ausgeführt werden soll,
-     * muss in diese Methode eingefügt werden.
-     * Objekte erstellen, Methoden aufrufen, ...
-     *
-     * Das Hauptprogramm wird automatisch
-     * gestartet, wenn du auf 'Play' drückst.
-     */
     public static void aufgabe2(double zahl1, double zahl2) {
 
         if (zahl1 > zahl2) {
@@ -66,7 +57,3 @@ public class Main {
     }
 
 }
-
-
-// main()-Methode starten
-Main.main();
